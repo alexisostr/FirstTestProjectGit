@@ -1,7 +1,7 @@
 
 public class TestGit2 {
-	 public static void main(String [] arg) {
+	 public static void testGit2() {
 		 
-		 System.out.println("Hello again GitHub!");
+		 System.out.println("Hello atesGit2!");
 	 }
 }
